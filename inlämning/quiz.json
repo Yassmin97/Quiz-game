@@ -1,0 +1,27 @@
+[
+    { "question": "What is my name?",
+      "options": ["Yassmin", "Jassmin", "Yas"],
+      "answer": "Yassmin" 
+    },
+    {
+      "question": "Whats my favorite hoppy?",
+      "options": ["Cooking", "Baking", "Dancing"],
+      "answer": "Baking"
+    },
+    {
+      "question": "How many years I have worked with DataTjej?",
+      "options": ["6", "1", "4"],
+      "answer": "4"
+    },
+    {
+      "question": "Where is my favorite vacation?",
+      "options": ["Bali", "Malaysia", "Dubai"],
+      "answer": "Malaysia"
+    },
+    {
+      "question": "How many siblings do I have?",
+      "options": ["4", "0", "2"],
+      "answer": "2"
+    }
+  ]
+  
